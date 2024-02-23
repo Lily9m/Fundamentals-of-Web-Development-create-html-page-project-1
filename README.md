@@ -1,4 +1,4 @@
-# Fundamentals-of-Web-Development-create-html-page-project-1
+# Fundamentals-of-Web-Development-create-html-page-project-1 only use html 
 Create three HTML pages, each with one desktop size page-scroll worth of content. One of the pages must be your professional resume. The themes of the other two are your choice.
 First Turn-in: Create a Basecamp post. Title the post with your name and project number (example Daniel Krieglstein: Project 1). Your post should include:
 The URL to your Project 1 GitHub repository, and the URL to your index.html Github Pages live link
@@ -16,7 +16,7 @@ Directory-based file structure for links and media. Do not use full URLs when li
 At least 10 commits to your Github repository; with meaningful commit messages that accurately reflect your changes
 Git repository must contain only the files and commits from this project. Each website you make for this class should have its own repository.
 
-# project-2
+# project-2 Add CSS
 Project Description
 For this project, you will add CSS to the 3-page website you built for project 1.
 
@@ -57,7 +57,7 @@ Add one valid, error-free JavaScript file with your original code; linked from t
 Make sure your JavaScript throws no uncaught errors and is loaded unobtrusively. You can check for errors using the console on your browser inspector
 For the final turn-in, add a JavaScript picture slider to one of your pages.
 
-# project-4 
+# project-3 Foundation Framework
 
 Project Description
 For this project, use the content from your Resume to create a new website page using Foundation framework.
@@ -68,3 +68,7 @@ The URL to your Project 3 GitHub repository, and the URL to your index.html Gith
 Two screen capture images of successful validation. One HTML and one CSS validation for each website page.
 Requirements
 ALL THE REQUIRMENTS FROM PROJECT 1 AND 2 STILL APPLY!
+
+
+https://dkriegls.github.io/coursera/projects.html
+
